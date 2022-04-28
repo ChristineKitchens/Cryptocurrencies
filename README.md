@@ -11,11 +11,11 @@ The K value for the K-means clustering (i.e. 4) was detemined via visual inspect
 
 Modeled class assignments were then plotted in a 3D scatter plot.
 
-![Fig 2. 3D-Scatter Plot of All Three Principal Components Colored by Class](Images/elbow_curve.png)
+![Fig 2. 3D-Scatter Plot of All Three Principal Components Colored by Class](Images/scatter_3D_class.png)
 
 Finally, data for Total Coin Supply and Total Coins Mined are scaled and plotted on a 2D scatter plot. Points are color-coded by class.
 
-![Fig 3. 2D-Scatter Plot of Total Coins Mined vs Total Coin Supply Colored by Class](Images/elbow_curve.png)
+![Fig 3. 2D-Scatter Plot of Total Coins Mined vs Total Coin Supply Colored by Class](Images/scatter_2D_scaled.png)
 
 
 
