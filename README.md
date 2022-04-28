@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Unsupervised Machine Learning with Cryptocurrencies
 This repository provides provides an example of how to use unsupervised machine learning to analyze cryptocurrency data. The goal is to group different cryptocurrencies into clusters to formulate cryptocurrency investment portfolios. The [Jupyter Notebook](Notebooks/crypto_clustering.ipynb) contains script for:
 - Preprocessing data
 - Reducing data dimensions through PCA
